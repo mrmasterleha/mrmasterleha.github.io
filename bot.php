@@ -1,6 +1,6 @@
 <?php
 
-include "vk_api.php"; 
+include "mrmasterleha.github.io/vk_api.php"; 
 
 
 const VK_KEY = "16b6c9b882dbf342a02baeeacefdc750bb2ca738bb6caedc89f6afc38be2af839264a3520ab34260cf9f8";  // Токен сообщества
